@@ -7,7 +7,7 @@ public class IntegerDataType {
 		
 		// 4. Integer
         int marks = 85;
-        System.out.println("Integer value: " + marks);
+        System.out.=println("Integer value: " + marks);
 		System.out.println("Updated By Junior");
 
 	}
